@@ -28,6 +28,8 @@
 .mq-editable-field .mq-cursor.mq-blink {
   visibility: hidden;
 }
+
+/* 
 .mq-editable-field,
 .mq-math-mode .mq-editable-field {
   border: 1px solid gray;
@@ -40,6 +42,8 @@
   border-color: #709AC0;
   border-radius: 1px;
 }
+*/
+
 .mq-math-mode .mq-editable-field {
   margin: 1px;
 }
